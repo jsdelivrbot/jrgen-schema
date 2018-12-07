@@ -6,6 +6,6 @@ Usage
 -----
 ```json
 {
-    "$schema": "https://rawgit.com/mzernetsch/jrgen-schema/master/jrgen.schema.json"
+    "$schema": "https://cdn.jsdelivr.net/gh/mzernetsch/jrgen-schema/jrgen.schema.json"
 }
 ```
